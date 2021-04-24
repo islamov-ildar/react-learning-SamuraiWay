@@ -1,0 +1,15 @@
+.item {
+    color: orange;
+    font-size: 30px;
+    line-height: 50px;
+}
+.item img  {
+    width: 50px;
+}
+.like {
+    background-color: gold;
+    border-radius: 10px;
+    padding: 0 5px;
+    width: 100px;
+    text-align: center;
+}
