@@ -1,8 +1,7 @@
 import React from 'react';
 import {addPostActionCreator, updateNewPostActionCreator} from "../../../redux/profilePage-reducer";
 import MyPost from "./MyPost";
-import StoreContext from "../../../redux/StoreContext";
-
+import StoreContext from "react-redux";
 
 const MyPostContainer = (props) => {
     console.log("+++");
